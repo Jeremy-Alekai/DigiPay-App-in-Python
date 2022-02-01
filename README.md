@@ -24,3 +24,9 @@ The API keys referenced in this project (found in files `indexer.py` and `algod.
 Do note that the number of requests available with this method is limited and sometimes lead to errors if you make too many requests.
 
 To run the repository, simply run `wsgi.py`.
+# DigiPay-App
+
+Contributors to this Project Include
+ - Anecho Jeremy Stewart
+ - Arnold Nation
+ - Mustafah Nkuutu
